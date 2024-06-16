@@ -5,10 +5,8 @@
     body {
         background-image: linear-gradient(to top , skyblue , rgb(103, 0, 177));
     }
-
     section#login {
         width: 80vw;
-
     }
     section#login>div#imagem {
         float: left;
@@ -26,7 +24,6 @@
     body {
         background-image: linear-gradient(to top , skyblue , rgb(103, 0, 177));
     }
-
     section#login {
         width: 950px;
     }
